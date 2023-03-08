@@ -1,0 +1,24 @@
+{
+  "name": "neovici-codetest",
+  "version": "0.0.1",
+  "description": "Project to fetch and display drinks",
+  "author": {
+    "name": "Hassan Albaaj",
+    "email": "h.albaaj@gmail.com"
+  },
+  "main": "index.html",
+  "scripts": {
+    "start": "vite"
+  },
+  "devDependencies": {
+    "vite": "^4.1.4"
+  },
+  "dependencies": {
+    "haunted": "^5.0.0",
+    "lit-html": "^2.6.1"
+  },
+  "keywords": [
+    "web-components",
+    "lit-html"
+  ]
+}
